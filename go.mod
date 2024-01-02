@@ -1,4 +1,4 @@
-module github.com/ebitengine/purego
+module github.com/BYC30/purego
 
 go 1.18
 
